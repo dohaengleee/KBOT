@@ -5,4 +5,5 @@
 
 ## Author
 
-[Lab2Ai](https://github.com/lab2ai/)
+  - [Lab2AI](https://lab2ai.com)
+  - [github](https://github.com/lab2ai.com)
