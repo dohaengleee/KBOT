@@ -1,4 +1,4 @@
-#  <img src="./img/logo.png" alt="logo" style="zoom:50%;" />
+#  <img src="./img/logo.png" alt="logo" style="zoom:10%;" />
 
 - [KBO_Homepages](https://www.koreabaseball.com/Futures/KBot/List.aspx)
 - [Naver sports](https://sports.news.naver.com/kbaseball/club/postList.nhn?expertId=515&page=2)
